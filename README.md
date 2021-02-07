@@ -1,4 +1,4 @@
-![alt text](https://github.com/NathanMuniz/Project-Euler/img/mat.png)
+![alt text](https://github.com/NathanMuniz/Project-Euler/blob/main/img/mat.png)
 
 
 # Project-Euler
