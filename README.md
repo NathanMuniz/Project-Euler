@@ -2,4 +2,4 @@
 
 
 # Project-Euler
- Project Eluer é um site de problemas matemáticos. Cujo a solução requer conhecimentos Matemáticos e Programação. Aqui tem Algumas soluçoes minhas para a estes problemas usando Python.
+ Project Eluer é um site de problemas matemáticos. Cujo a solução requer conhecimentos Matemáticos e de Programação. Aqui tem Algumas soluçoes minhas para estes problemas usando Python.
